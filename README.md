@@ -22,7 +22,7 @@
 
 ### ***Getting Started***
 
-##### Click on the selector and watch as the cooresponding circle is selected.
+##### Click on the selector and watch as the corresponding circle is selected.
 ##### The project itself was deployed to GitHub pages and can be viewed [here](https://mlackey9601.github.io/circleSelector/).
 ***
 
