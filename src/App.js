@@ -18,7 +18,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          UNIT 4 FINAL ASSESSMENT
+          Circle Selector
         </header>
         <main>
           <CircleSelector
