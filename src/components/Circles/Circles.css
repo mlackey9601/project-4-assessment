@@ -24,7 +24,7 @@
   }
   
   .Circles div.selected {
-    background-color: white;
     color: rgb(0, 81, 255);
     border: 5px solid rgb(0, 81, 255);
+    background-color: rgb(255, 187, 0);
   }
