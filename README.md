@@ -13,11 +13,11 @@
 
 ### ***Technologies Used***
 
-* ##### HTML5
-* ##### CSS3
-* ##### JavaScript
-* ##### NodeJS
-* ##### ReactJS
+* HTML5
+* CSS3
+* JavaScript
+* NodeJS
+* ReactJS
 ***
 
 ### ***Getting Started***
